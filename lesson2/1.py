@@ -1,0 +1,1 @@
+print(sum([int(item) for item in input() if item.isdigit()]))
