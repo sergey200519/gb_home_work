@@ -1,0 +1,8 @@
+февр. 02, 2023 12:42:03 AM java_dz.lesson2.prog2 main
+INFO: [I@66d3c617
+февр. 02, 2023 12:42:03 AM java_dz.lesson2.prog2 main
+INFO: [I@66d3c617
+февр. 02, 2023 12:42:03 AM java_dz.lesson2.prog2 main
+INFO: [I@66d3c617
+февр. 02, 2023 12:42:03 AM java_dz.lesson2.prog2 main
+INFO: [I@66d3c617
